@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hi%2C+I'm+Anton+Abitharshan+%F0%9F%91%8B;Aspiring+Software+Engineer;"Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hi%2C+I'm+Anton+Abitharshan+%F0%9F%91%8B;"Typing SVG">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 **Other Skills:** Data Structures & Algorithms, OOP, Networking, Web Development, Mobile App Development  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,php,js,react,next,nodejs,express,spring,hibernate,html,css,tailwind,androidstudio,reactnative,mysql,postgres,mongodb,firebase,docker,aws,git,vscode,intellij,figma" height="44" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,php,js,react,next,nodejs,express,spring,hibernate,html,css,tailwind,androidstudio,mysql,postgres,mongodb,firebase,docker,aws,git,vscode,intellij,figma" height="44" />
 </p>
 
 ---
@@ -58,30 +58,11 @@
 
 ---
 
-### 📜 Certifications
-- React Basics & Advanced – Meta  
-- Node.js & Java Paths – MongoDB  
-- AI on Microsoft Azure  
-- ChatGPT Prompt Engineering  
-- Linux Fundamentals  
-- AWS S3 Basics  
-- Launch Project with JavaScript – Le Wagon  
-- Intro to Git/GitHub – Le Wagon  
-
----
-
 ### 🧩 Learning & Interests
 - 📱 Mobile App Development with Kotlin & React Native  
 - 🌐 Full-stack Web Development (React + Node/Express)  
 - 🤖 AI/ML fundamentals with Python  
 - 🗣 Presentation skills, teamwork, and collaboration  
-
----
-
-### 🏅 Leadership & Activities
-- 🎓 College projects and team collaborations  
-- 🌱 Community contributions and volunteering activities  
-
 ---
 
 ### 📬 Reach Me
