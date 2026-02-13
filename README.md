@@ -29,7 +29,7 @@
 **Other Skills:** Data Structures & Algorithms, OOP, Networking, Web Development, Mobile App Development  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,php,js,react,next,nodejs,express,spring,hibernate,html,css,tailwind,androidstudio,mysql,postgres,mongodb,firebase,docker,aws,git,vscode,intellij,figma" height="44" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,php,js,react,next,nodejs,express,spring,hibernate,html,css,tailwind,androidstudio,mysql,postgres,mongodb,firebase,docker,aws,git,vscode,figma" height="44" />
 </p>
 
 ---
