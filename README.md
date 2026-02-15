@@ -65,8 +65,3 @@
 - 🗣 Presentation skills, teamwork, and collaboration  
 ---
 
-### 📬 Reach Me
-- **Phone:** 0705710466  
-- **Email:** <a href="mailto:aptharshan@gmail.com">aptharshan@gmail.com</a>  
-- **LinkedIn:** <a href="https://www.linkedin.com/in/antonabitharshan/">linkedin.com/in/antonabitharshan</a>  
-- **GitHub:** <a href="https://github.com/tharshan2001">tharshan2001</a>
