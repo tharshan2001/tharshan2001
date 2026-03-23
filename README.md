@@ -34,30 +34,6 @@
 
 ---
 
-### 🚀 Highlight Projects
-#### 🌐 BullBearSolutions (Live)
-- Developed **responsive MERN-based business website** with SEO optimization  
-- End-to-end full-stack solution delivered in collaboration with client  
-- **Tech:** React, Node.js, MongoDB, Tailwind CSS, JWT  
-
-#### 🛒 Ebee.lk
-- MERN e-commerce platform with **role-based access** (Admin, Driver, Agent)  
-- Integrated **Dialog API** for real-time SMS notifications  
-- Designed scalable APIs & mobile-friendly payment workflows  
-- **Tech:** React, Node.js, MongoDB, Tailwind CSS, JWT, OAuth  
-
-#### 🎥 NodeStream
-- Media storage system with **secure uploads & streaming**  
-- Implemented user-based access control and image optimization  
-- **Tech:** Java, Spring Boot, Spring Security, PostgreSQL  
-
-#### 💳 POS System
-- Developed **Spring Boot Point-of-Sale** app for sales, inventory, and transactions  
-- Included bill generation and customer data management  
-- **Tech:** Java, Spring Boot, MySQL  
-
----
-
 ### 🧩 Learning & Interests
 - 📱 Mobile App Development with Kotlin & React Native  
 - 🌐 Full-stack Web Development (React + Node/Express)  
